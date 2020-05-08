@@ -6,4 +6,5 @@ def square_array(array)
     index +=1
   end
   numbers
-end
+
+square_array(1, 2, 3)
